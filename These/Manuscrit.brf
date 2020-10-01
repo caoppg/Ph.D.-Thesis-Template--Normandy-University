@@ -1,0 +1,237 @@
+\backcite {starck2015sparse}{{1}{1}{chapter.1}}
+\backcite {bracewell1986fourier}{{2}{1}{chapter.1}}
+\backcite {mallat1999wavelet}{{2}{1}{chapter.1}}
+\backcite {graps1995introduction, chui2016introduction}{{2}{1}{chapter.1}}
+\backcite {meyer1995wavelets, chen1997haar, daubechies1988orthonormal}{{2}{1}{chapter.1}}
+\backcite {lee1996image, rubinstein2010dictionaries, starck2002curvelet}{{2}{1}{figure.caption.4}}
+\backcite {mallat1999wavelet}{{2}{1}{figure.caption.4}}
+\backcite {le2000image}{{2}{1}{figure.caption.4}}
+\backcite {unser1995texture}{{2}{1}{figure.caption.4}}
+\backcite {mallat1999wavelet}{{3}{1}{figure.caption.4}}
+\backcite {lee1996image}{{3}{1}{figure.caption.4}}
+\backcite {chang2000adaptive, chang2000spatially}{{3}{1}{figure.caption.4}}
+\backcite {do2005contourlet}{{3}{1}{figure.caption.4}}
+\backcite {unser1995texture, chang1993texture}{{3}{1}{figure.caption.4}}
+\backcite {olshausen1996emergence}{{3}{1}{figure.caption.4}}
+\backcite {mallat1993matching}{{4}{1}{figure.caption.4}}
+\backcite {chen1995examples}{{4}{1}{figure.caption.4}}
+\backcite {aharon2006k, elad2006image}{{4}{1}{figure.caption.4}}
+\backcite {jenatton2010proximal}{{4}{1}{figure.caption.4}}
+\backcite {mairal2009online}{{4}{1}{figure.caption.4}}
+\backcite {malioutov2005sparse}{{4}{1}{figure.caption.4}}
+\backcite {mairal2014sparse}{{4}{1}{figure.caption.4}}
+\backcite {mairal2014sparse}{{4}{1}{figure.caption.4}}
+\backcite {xu2013unnatural, tibshirani1996regression}{{6}{1.1}{equation.1.1.1}}
+\backcite {elad2010sparse}{{6}{1.1}{equation.1.1.1}}
+\backcite {tibshirani1996regression, mairal2009online, chen1995examples}{{7}{1.1.1}{figure.caption.7}}
+\backcite {rinaldi2010concave}{{7}{1.1.1}{figure.caption.7}}
+\backcite {elad2010sparse}{{7}{1.1.1}{figure.caption.7}}
+\backcite {nikolova2013description,atamturk2018sparse,xu2013unnatural}{{7}{1.1.1}{figure.caption.7}}
+\backcite {tropp2004greed}{{7}{1.1.1}{figure.caption.7}}
+\backcite {soubies2017unified}{{7}{1.1.1}{figure.caption.7}}
+\backcite {xu2013unnatural,elad2006image,mancera2006l0}{{8}{1.1.1}{figure.caption.7}}
+\backcite {mallat1999wavelet,le2000image}{{8}{1.1.1}{figure.caption.7}}
+\backcite {bao2014l0}{{8}{1.1.1}{figure.caption.7}}
+\backcite {elad2006image}{{8}{1.1.1}{equation.1.1.5}}
+\backcite {fan2015l0}{{8}{1.1.1}{equation.1.1.5}}
+\backcite {peharz2012sparse}{{9}{1.1.1}{figure.caption.9}}
+\backcite {chang2000adaptive,elad2006image}{{9}{1.1.1}{figure.caption.9}}
+\backcite {huang2007sparse, unser1995texture}{{9}{1.1.1}{figure.caption.9}}
+\backcite {nikolova2016relationship}{{10}{1.1.1}{equation.1.1.7}}
+\backcite {mancera2006l0}{{10}{1.1.1}{equation.1.1.7}}
+\backcite {bao2014l0, yuan2012visual}{{10}{1.1.1}{equation.1.1.7}}
+\backcite {rinaldi2010concave}{{10}{1.1.1}{equation.1.1.8}}
+\backcite {mohimani2007fast}{{11}{1.1.1}{equation.1.1.10}}
+\backcite {soubies2017unified}{{11}{1.1.1}{equation.1.1.13}}
+\backcite {feng2013complementarity}{{11}{1.1.1}{equation.1.1.14}}
+\backcite {nikolova2016relationship, rinaldi2010concave,mohimani2007fast,atamturk2018sparse}{{12}{1.1.1}{equation.1.1.16}}
+\backcite {nikolova2013description}{{12}{1.1.1}{section*.11}}
+\backcite {elad2010sparse}{{13}{1.1.1}{section*.11}}
+\backcite {donoho2001uncertainty}{{13}{1.1.1}{section*.11}}
+\backcite {elad2010sparse}{{13}{1.1.1}{theorem.1.1.1}}
+\backcite {nikolova2013description}{{13}{1.1.1}{theorem.1.1.1}}
+\backcite {donoho2006most, candes2006stable, zhao2006model}{{13}{1.1.2}{subsection.1.1.2}}
+\backcite {donoho2001uncertainty, donoho2006most}{{13}{1.1.2}{subsection.1.1.2}}
+\backcite {chen2001atomic}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {tibshirani1996regression}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {rao2015classification, zhou2017inverse}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {zou2006adaptive}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {van2008probing}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {wu2008coordinate}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {arnold2016efficient}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {markopoulos2017efficient}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {meinshausen2009lasso,lee2007efficient}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {rao2015classification}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {zhou2017inverse}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {wright2008robust}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {meinshausen2006high, arnold2016efficient}{{14}{1.1.2}{equation.1.1.19}}
+\backcite {fung2011equivalence, malioutov2005sparse}{{15}{1.1.3}{equation.1.1.20}}
+\backcite {malioutov2005sparse}{{15}{1.1.3}{equation.1.1.21}}
+\backcite {malioutov2005sparse,chen2015local}{{15}{1.1.3}{equation.1.1.21}}
+\backcite {shi2014face}{{15}{1.1.3}{equation.1.1.21}}
+\backcite {nie2010efficient}{{15}{1.1.3}{equation.1.1.21}}
+\backcite {liu2007variable}{{15}{1.1.3}{equation.1.1.21}}
+\backcite {elad2010sparse}{{15}{1.2}{section.1.2}}
+\backcite {vito2005learning}{{15}{1.2}{section.1.2}}
+\backcite {vito2005learning}{{16}{1.2}{equation.1.2.26}}
+\backcite {engl1996regularization}{{17}{1.2}{equation.1.2.26}}
+\backcite {tropp2004greed}{{17}{1.3}{section.1.3}}
+\backcite {mailhe2012ink}{{17}{1.3}{section.1.3}}
+\backcite {aharon2006k, tibshirani1996regression, chen1995examples, jenatton2010proximal, mairal2009online}{{19}{2}{chapter.2}}
+\backcite {mallat1993matching}{{20}{2.1}{equation.2.1.3}}
+\backcite {parikh2014proximal}{{20}{2.1}{equation.2.1.3}}
+\backcite {chen1995examples}{{20}{2.1}{equation.2.1.3}}
+\backcite {kushner2003stochastic}{{20}{2.1}{equation.2.1.3}}
+\backcite {garrigues2009homotopy}{{20}{2.1}{equation.2.1.3}}
+\backcite {meinshausen2007relaxed}{{20}{2.1}{equation.2.1.3}}
+\backcite {atamturk2018sparse, bourguignon2015exact}{{20}{2.1}{equation.2.1.3}}
+\backcite {belotti2016handling}{{21}{2.1}{equation.2.1.3}}
+\backcite {tropp2004greed}{{21}{2.1.1}{subsection.2.1.1}}
+\backcite {mallat1993matching}{{21}{2.1.1}{section*.12}}
+\backcite {pati1993orthogonal}{{22}{2.1.1}{algorithm.1}}
+\backcite {pati1993orthogonal}{{22}{2.1.1}{section*.13}}
+\backcite {pati1993orthogonal}{{23}{2.1.1}{equation.2.1.7}}
+\backcite {tropp2004greed}{{23}{2.1.1}{equation.2.1.7}}
+\backcite {tropp2007signal}{{23}{2.1.1}{equation.2.1.7}}
+\backcite {rubinstein2008efficient}{{23}{2.1.1}{equation.2.1.7}}
+\backcite {wang2012generalized}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {needell2009uniform}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {donoho2006sparse}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {aharon2006k, mailhe2012ink, schnass2014identifiability}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {rodriguez2008sparse, huang2007sparse, zhang2010discriminative, mairal2008discriminative}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {zhang2010discriminative}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {elad2006image}{{24}{2.1.1}{equation.2.1.7}}
+\backcite {needell2009cosamp}{{24}{2.1.1}{section*.14}}
+\backcite {dai2009subspace}{{24}{2.1.1}{section*.14}}
+\backcite {needell2009cosamp}{{25}{2.1.1}{equation.2.1.8}}
+\backcite {dai2009subspace}{{26}{2.1.1}{equation.2.1.8}}
+\backcite {bo2011hierarchical}{{26}{2.1.1}{section*.15}}
+\backcite {schniter2008fast,wang2011high, masood2013sparse}{{26}{2.1.1}{section*.15}}
+\backcite {bo2013multipath, bo2011hierarchical}{{26}{2.1.1}{section*.15}}
+\backcite {bo2011hierarchical}{{26}{2.1.1}{section*.15}}
+\backcite {schniter2008fast}{{26}{2.1.1}{section*.15}}
+\backcite {schniter2008fast}{{27}{2.1.1}{section*.15}}
+\backcite {tropp2004greed}{{27}{2.1.1}{section*.15}}
+\backcite {chen2001atomic, mairal2009online,donoho2006most,markopoulos2017efficient}{{27}{2.1.2}{subsection.2.1.2}}
+\backcite {chen2001atomic}{{27}{2.1.2}{subsection.2.1.2}}
+\backcite {tibshirani1996regression}{{27}{2.1.2}{subsection.2.1.2}}
+\backcite {mota2011distributed, chen2001atomic}{{27}{2.1.2}{section*.16}}
+\backcite {chen2001atomic}{{27}{2.1.2}{section*.16}}
+\backcite {chen1995examples}{{27}{2.1.2}{equation.2.1.9}}
+\backcite {tibshirani1996regression}{{28}{2.1.2}{section*.17}}
+\backcite {tibshirani1996regression}{{28}{2.1.2}{section*.17}}
+\backcite {bertsekas1997nonlinear}{{28}{2.1.2}{equation.2.1.10}}
+\backcite {kim2008gradient,garg2009gradient}{{28}{2.1.2}{equation.2.1.10}}
+\backcite {efron2004least}{{28}{2.1.2}{equation.2.1.10}}
+\backcite {malioutov2005homotopy,garrigues2009homotopy}{{29}{2.1.2}{equation.2.1.10}}
+\backcite {garrigues2009homotopy}{{29}{2.1.2}{equation.2.1.10}}
+\backcite {malioutov2005homotopy}{{29}{2.1.2}{equation.2.1.11}}
+\backcite {garrigues2009homotopy, mairal2012complexity}{{29}{2.1.2}{equation.2.1.11}}
+\backcite {garrigues2009homotopy, mairal2012complexity, park2007l1}{{29}{2.1.2}{equation.2.1.11}}
+\backcite {garrigues2009homotopy}{{29}{2.1.2}{equation.2.1.11}}
+\backcite {fung2011equivalence,rinaldi2010concave,soubies2017unified,zuo2013generalized}{{29}{2.1.2}{equation.2.1.11}}
+\backcite {kowalski2014thresholding,blumensath2007iterative}{{30}{2.1.3}{subsection.2.1.3}}
+\backcite {foucart2011hard,yuan2017gradient,garg2009gradient,kim2008gradient}{{30}{2.1.3}{subsection.2.1.3}}
+\backcite {blumensath2007iterative,garg2009gradient,yuan2014gradient}{{30}{2.1.3}{subsection.2.1.3}}
+\backcite {fujiwara2016fast, meinshausen2007relaxed,wright2009sparse,khajehnejad2015improving}{{30}{2.1.3}{subsection.2.1.3}}
+\backcite {garg2009gradient}{{30}{2.1.3}{section*.18}}
+\backcite {blumensath2008iterative, blumensath2009iterative, herrity2006sparse}{{31}{2.1.3}{equation.2.1.12}}
+\backcite {garg2009gradient}{{31}{2.1.3}{equation.2.1.12}}
+\backcite {foucart2011hard}{{31}{2.1.3}{equation.2.1.12}}
+\backcite {foucart2011hard}{{31}{2.1.3}{equation.2.1.12}}
+\backcite {yuan2017gradient}{{31}{2.1.3}{equation.2.1.12}}
+\backcite {bao2014l0, parikh2014proximal}{{31}{2.1.3}{equation.2.1.12}}
+\backcite {blumensath2007iterative, blumensath2008iterative, daubechies2004iterative}{{31}{2.1.3}{section*.19}}
+\backcite {blumensath2008iterative,blumensath2007iterative}{{32}{2.1.3}{equation.2.1.14}}
+\backcite {daubechies2004iterative}{{32}{2.1.3}{equation.2.1.15}}
+\backcite {meinshausen2007relaxed}{{32}{2.1.3}{equation.2.1.15}}
+\backcite {fujiwara2016fast}{{32}{2.1.3}{equation.2.1.15}}
+\backcite {bioucas2007new}{{32}{2.1.3}{equation.2.1.15}}
+\backcite {kim2008gradient}{{33}{2.1.3}{section*.20}}
+\backcite {kim2008gradient}{{33}{2.1.3}{section*.20}}
+\backcite {kim2008gradient}{{35}{2.1.3}{algorithm.6}}
+\backcite {tropp2004greed, elad2010sparse}{{35}{2.2}{section.2.2}}
+\backcite {elad2010sparse, donoho2001uncertainty}{{35}{2.2}{section.2.2}}
+\backcite {bioucas2007new, fujiwara2016fast,kowalski2014thresholding, tropp2004greed, elad2010sparse}{{35}{2.2}{section.2.2}}
+\backcite {bracewell1986fourier}{{35}{2.2}{section.2.2}}
+\backcite {mallat1999wavelet, graps1995introduction,le2000image}{{35}{2.2}{section.2.2}}
+\backcite {starck2002curvelet}{{35}{2.2}{section.2.2}}
+\backcite {do2005contourlet}{{35}{2.2}{section.2.2}}
+\backcite {mairal2014sparse, aharon2006k}{{35}{2.2}{section.2.2}}
+\backcite {jiang2013label, zhang2010discriminative}{{35}{2.2}{section.2.2}}
+\backcite {mairal2009supervised}{{35}{2.2}{section.2.2}}
+\backcite {huang2007sparse}{{35}{2.2}{section.2.2}}
+\backcite {zhang2013learning}{{35}{2.2}{section.2.2}}
+\backcite {mailhe2012ink, tang2019coherence, abolghasemi2015fast, bao2014convergent}{{36}{2.2}{section.2.2}}
+\backcite {engan1999method}{{37}{2.2.1}{subsection.2.2.1}}
+\backcite {smith2012improving}{{37}{2.2.1}{algorithm.7}}
+\backcite {mairal2008discriminative}{{38}{2.2.1}{algorithm.7}}
+\backcite {ramirez2009sparse}{{38}{2.2.1}{algorithm.7}}
+\backcite {aharon2006k}{{38}{2.2.2}{subsection.2.2.2}}
+\backcite {rubinstein2008efficient}{{38}{2.2.2}{subsection.2.2.2}}
+\backcite {schnass2014identifiability}{{38}{2.2.2}{subsection.2.2.2}}
+\backcite {elad2006image}{{38}{2.2.2}{subsection.2.2.2}}
+\backcite {zhang2010discriminative}{{38}{2.2.2}{subsection.2.2.2}}
+\backcite {jiang2013label}{{38}{2.2.2}{subsection.2.2.2}}
+\backcite {mailhe2012ink}{{39}{2.2.2}{algorithm.8}}
+\backcite {schnass2014identifiability, rubinstein2008efficient, mailhe2012ink, zhang2010discriminative}{{39}{2.2.3}{subsection.2.2.3}}
+\backcite {golts2016linearized, van2012kernel, zhang2016kernel, kumar2016sparse}{{39}{2.2.3}{subsection.2.2.3}}
+\backcite {ravishankar2017efficient}{{39}{2.2.3}{subsection.2.2.3}}
+\backcite {van2012kernel}{{39}{2.2.3}{section*.21}}
+\backcite {zhang2016kernel}{{40}{2.2.3}{section*.21}}
+\backcite {van2012kernel, golts2016linearized, fan2018linearized}{{40}{2.2.3}{equation.2.2.23}}
+\backcite {kumar2015brain}{{40}{2.2.3}{equation.2.2.23}}
+\backcite {golts2016linearized}{{41}{2.2.3}{equation.2.2.23}}
+\backcite {zhang2016kernel}{{41}{2.2.3}{equation.2.2.23}}
+\backcite {zhang2016kernel, fan2018linearized}{{41}{2.2.3}{equation.2.2.23}}
+\backcite {ravishankar2017efficient}{{41}{2.2.3}{section*.22}}
+\backcite {ravishankar2017efficient}{{42}{2.2.3}{equation.2.2.25}}
+\backcite {ravishankar2017efficient}{{42}{2.2.3}{equation.2.2.27}}
+\backcite {jenatton2010proximal, chalasani2013fast}{{43}{2.2.4}{subsection.2.2.4}}
+\backcite {bao2014l0}{{43}{2.2.4}{subsection.2.2.4}}
+\backcite {parikh2014proximal}{{43}{2.2.4}{subsection.2.2.4}}
+\backcite {bolte2014proximal}{{43}{2.2.4}{subsection.2.2.4}}
+\backcite {bao2014l0, jenatton2010proximal, li2015fast}{{43}{2.2.4}{subsection.2.2.4}}
+\backcite {bao2014l0}{{44}{2.2.4}{equation.2.2.29}}
+\backcite {bao2014l0}{{44}{2.2.4}{equation.2.2.31}}
+\backcite {bertsekas1997nonlinear}{{44}{2.2.4}{equation.2.2.31}}
+\backcite {parikh2014proximal}{{45}{2.2.4}{equation.2.2.31}}
+\backcite {mairal2010online}{{45}{2.2.5}{subsection.2.2.5}}
+\backcite {mairal2010online}{{45}{2.2.5}{subsection.2.2.5}}
+\backcite {mairal2011task, yang2014online}{{45}{2.2.5}{subsection.2.2.5}}
+\backcite {mairal2014sparse}{{45}{2.2.5}{equation.2.2.32}}
+\backcite {mairal2012complexity}{{46}{4}{algorithm.10}}
+\backcite {mairal2009online}{{46}{2.2.5}{algorithm.10}}
+\backcite {yang2014online}{{46}{2.2.5}{algorithm.10}}
+\backcite {elad2010sparse}{{49}{3}{chapter.3}}
+\backcite {pati1993orthogonal}{{49}{3}{chapter.3}}
+\backcite {mairal2012complexity}{{49}{3}{chapter.3}}
+\backcite {rinaldi2010concave}{{49}{3}{chapter.3}}
+\backcite {yang2009ways}{{49}{3}{chapter.3}}
+\backcite {bao2014l0, zhang2015survey}{{49}{3}{chapter.3}}
+\backcite {bourguignon2015exact}{{49}{3}{chapter.3}}
+\backcite {garg2009gradient}{{50}{3.1}{equation.3.1.1}}
+\backcite {mallat1993matching, pati1993orthogonal,needell2009cosamp}{{50}{3.1}{equation.3.1.1}}
+\backcite {tropp2004greed, bao2014l0}{{50}{3.1}{equation.3.1.1}}
+\backcite {kowalski2014thresholding, bioucas2007new}{{50}{3.1}{equation.3.1.1}}
+\backcite {bixby2012brief}{{51}{3.1.1}{section*.23}}
+\backcite {solow2007linear, nocedal2006numerical}{{51}{3.1.1}{section*.23}}
+\backcite {nelder1965simplex}{{51}{3.1.1}{section*.23}}
+\backcite {gill1986projected}{{51}{3.1.1}{section*.23}}
+\backcite {bixby2012brief}{{51}{3.1.1}{section*.23}}
+\backcite {sen2006decomposition}{{51}{3.1.1}{section*.23}}
+\backcite {schouwenaars2001mixed}{{51}{3.1.1}{section*.23}}
+\backcite {tawarmalani2004global, billionnet2007using}{{51}{3.1.1}{section*.23}}
+\backcite {jokar2008exact}{{51}{3.1.1}{section*.23}}
+\backcite {bourguignon2015exact}{{51}{3.1.1}{section*.23}}
+\backcite {liu2019mixed}{{51}{3.1.1}{section*.23}}
+\backcite {bourguignon2015exact}{{52}{3.1.1}{section*.24}}
+\backcite {jeroslow1973there}{{54}{3.1.1}{equation.3.1.10}}
+\backcite {neumaier2004safe}{{54}{3.1.1}{equation.3.1.10}}
+\backcite {bixby2012brief}{{55}{3.1.1}{equation.3.1.11}}
+\backcite {parikh2014proximal, bao2014l0}{{55}{3.1.2}{section*.26}}
+\backcite {parikh2014proximal}{{56}{3.1.2}{equation.3.1.14}}
+\backcite {liu2019mixed}{{56}{3.1.2}{equation.3.1.15}}
+\backcite {von2000decomposition}{{56}{3.1.2}{section*.27}}
+\backcite {neumaier2004safe}{{56}{3.1.2}{section*.27}}
+\backcite {hoffman2013integer}{{56}{3.1.2}{section*.27}}

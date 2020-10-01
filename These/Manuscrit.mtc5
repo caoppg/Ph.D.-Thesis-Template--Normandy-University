@@ -1,0 +1,22 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Algorithms for sparse coding }{\reset@font\mtcSfont 20}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.1}Greed algorithm}{\reset@font\mtcSSfont 21}{subsection.2.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Matching Pursuit}{\reset@font\mtcSSSfont 21}{section*.12}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Orthogonal Matching Pursuit}{\reset@font\mtcSSSfont 22}{section*.13}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Compressive Sampling Matching Pursuit (CoSaMP) and Subspace Pursuit (SP)}{\reset@font\mtcSSSfont 24}{section*.14}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Other Matching Pursuit}{\reset@font\mtcSSSfont 26}{section*.15}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.2}$\ell _p$-norm Relaxation}{\reset@font\mtcSSfont 27}{subsection.2.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Basis Pursuit}{\reset@font\mtcSSSfont 27}{section*.16}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Lasso}{\reset@font\mtcSSSfont 28}{section*.17}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.3}Gradient Descent Algorithm and Iterative Thresholding Algorithm}{\reset@font\mtcSSfont 30}{subsection.2.1.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Gradient Descent with Projection on Constraint set }{\reset@font\mtcSSSfont 30}{section*.18}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Iterative Thresholding Algorithm for regularized sparse problem}{\reset@font\mtcSSSfont 31}{section*.19}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Gradient Descent Algorithm}{\reset@font\mtcSSSfont 33}{section*.20}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Algorithms for dictionary learning }{\reset@font\mtcSfont 35}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.1}The Method of optimal direction (MOD)}{\reset@font\mtcSSfont 37}{subsection.2.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.2}K-SVD}{\reset@font\mtcSSfont 38}{subsection.2.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.3}Variants of K-SVD}{\reset@font\mtcSSfont 39}{subsection.2.2.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Kernel K-SVD}{\reset@font\mtcSSSfont 39}{section*.21}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Sum of OUter Products Dictionary learning}{\reset@font\mtcSSSfont 41}{section*.22}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.4}Proximal method}{\reset@font\mtcSSfont 43}{subsection.2.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.5}Online dictionary learning}{\reset@font\mtcSSfont 45}{subsection.2.2.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Summary}{\reset@font\mtcSfont 47}{section.2.3}}
